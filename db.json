@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "firstName": "Mahibaala ",
+      "lastName": "V",
+      "email": "mahibaalav.2000@gmail.com",
+      "mobile": "9715994902",
+      "salary": "40000"
+    },
+    {
+      "id": 9,
+      "firstName": "Mahi",
+      "lastName": "V",
+      "email": "mahi@gmail.com",
+      "mobile": "9715994902",
+      "salary": "70000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
